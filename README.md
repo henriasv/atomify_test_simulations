@@ -1,6 +1,6 @@
 # Atomify examples template
 
-➡️ **https://andeplane.github.io/atomify?examplesUrl=https://raw.githubusercontent.com/andeplane/atomify-examples-template/main/examples.json**
+➡️ **https://andeplane.github.io/atomify?examplesUrl=https://raw.githubusercontent.com/henriasv/atomify_test_simulations/main/examples.json**
 
 ![Atomify example template](screenshot.png)
 
