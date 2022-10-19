@@ -11,4 +11,4 @@ $$D = \frac{\langle (\vec x(t) - \vec x_0)^2\rangle}{2D}$$
 
 where $D=2$ is the number of dimensions. We can also calculate the diffusion coefficient through a Green-Kubo relation given as
 
-$$D = \int_0^\infty dt \langle u(t) u(0) \rangle$, where $\langle u(t) u(0) \rangle$$ is the velocity auto correlation function.
+$$D = \int_0^\infty dt \langle u(t) u(0) \rangle$$, where $\langle u(t) u(0) \rangle$ is the velocity auto correlation function.
